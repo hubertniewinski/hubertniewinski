@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubertniewinski&label=Profile%20views&color=0e75b6&style=flat" alt="hubertniewinski" /> </p>
 
-<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 128 128" id="xrp"><path d="m113.62 21.91-15.41.21L73.5 46.83a13.45 13.45 0 0 1-19 0L29.79 22.12l-15.41-.21L45 52.53a26.89 26.89 0 0 0 38 0zm-99.24 84.18 15.41-.21L54.5 81.17a13.45 13.45 0 0 1 19 0l24.71 24.71 15.41.21L83 75.47a26.89 26.89 0 0 0-38 0z"></path></svg> I’m currently learning **XRP Ledger**
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 128 128" id="Xrp"><path d="m113.62 21.91-15.41.21L73.5 46.83a13.45 13.45 0 0 1-19 0L29.79 22.12l-15.41-.21L45 52.53a26.89 26.89 0 0 0 38 0zm-99.24 84.18 15.41-.21L54.5 81.17a13.45 13.45 0 0 1 19 0l24.71 24.71 15.41.21L83 75.47a26.89 26.89 0 0 0-38 0z" fill="#595bd4" class="color000000 svgShape"></path></svg> I’m currently learning **XRP Ledger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubertniewinski&label=Profile%20views&color=0e75b6&style=flat" alt="hubertniewinski" /> </p>
 
-<img src="https://icons8.com/icon/CB9IvVPNARFP/ripple" width="20" height="20"/> I’m currently learning **XRP Ledger**
+<img src="[https://icons8.com/icon/CB9IvVPNARFP/ripple](https://icons8.com/icon/CB9IvVPNARFP/ripple)" width="20" height="20"/> I’m currently learning **XRP Ledger**
+
+
+<img src="" width="20" height="20"/> I’m currently learning **XRP Ledger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

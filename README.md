@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hubert</h1>
-<h3 align="center">A passionate generalist programmer</h3>
+<h3 align="center">I'm a passionate generalist programmer currently working as a Fullstack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hubertniewinski&label=Profile%20views&color=0e75b6&style=flat" alt="hubertniewinski" /> </p>
 
-- 🌱 I’m currently learning **XRP Ledger**
+<img src="https://icons8.com/icon/CB9IvVPNARFP/ripple" width="20" height="20"/> I’m currently learning **XRP Ledger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

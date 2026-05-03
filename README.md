@@ -1,6 +1,6 @@
 # Hubert Niewiński
 
-Fullstack Developer · (.NET, Angular)
+Fullstack Developer · (.NET, Angular) · 5 years commercial experience  
 Clean architecture, DDD, maintainable systems.
 
 ---

@@ -26,7 +26,7 @@ Hands-on exploration of microservices patterns in .NET — Saga, Outbox, Circuit
 **[hoodedlabs.com](https://hoodedlabs.com)**  
 A small selection of personal projects I've made public — things built for my own use that might be useful to others.
 
-**[LeetCodeExercises](https://github.com/hubertniewinski/LeetCodeExercises)**  
+**[leet-code-exercises](https://github.com/hubertniewinski/leet-code-exercises)**  
 Algorithmic exercises in C# — data structures, graphs, dynamic programming.
 
 ---

@@ -34,7 +34,6 @@ Algorithmic exercises in C# — data structures, graphs, dynamic programming.
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hubertniewinski&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hubertniewinski&layout=compact&hide_border=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hubertniewinski&hide_border=true&date_format=j%20M%5B%20Y%5D&width=495)](https://git.io/streak-stats)
 
 ---

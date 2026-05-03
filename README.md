@@ -1,8 +1,7 @@
 # Hubert Niewiński
 
 Fullstack Developer · (.NET, Angular) · 5 years commercial experience  
-Clean architecture, DDD/CQRS, maintainable systems.  
-Currently exploring microservices patterns and Azure.
+Clean architecture, DDD/CQRS, maintainable systems.
 
 ---
 
